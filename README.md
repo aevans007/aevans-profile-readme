@@ -8,10 +8,6 @@ BS Information Systems & Technology, 7+ years programming.
 ## 🎉 Interests
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/aevans007)
 
 )
-
-
-
-_"Your sample quote here!"_
